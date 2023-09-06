@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "body": "test",
+            "title": "Post 1",
+            "author": "ali"
+        },
+        {
+            "id": 2,
+            "body": "test",
+            "title": "Post 2",
+            "author": "reza"
+        },
+        {
+            "id": 3,
+            "body": "test",
+            "title": "Post 3",
+            "author": "mohamad"
+        }
+    ]
+}
